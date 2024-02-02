@@ -1,2 +1,1 @@
-Il seguente progetto è stato realizzato come elaborato finale del corso in Elettronica digitale erogato al terzo anno della laurea triennale in ingegneria informatica all'Università della Calabria.
-E' realizzato un circuito carry-select attraverso l'utilizzo di VHDL
+The project has been developed as the final project of the course in Digital Electronics, offered in the third year of the Bachelor's degree program in Computer Engineering at the University of Calabria. It involves the implementation of a carry-select circuit using VHDL.
