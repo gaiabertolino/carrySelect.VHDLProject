@@ -1,1 +1,5 @@
-The project has been developed as the final project of the course in Digital Electronics, offered in the third year of the Bachelor's degree program in Computer Engineering at the University of Calabria. It involves the implementation of a carry-select circuit using VHDL.
+# carrySelect.VHDLProject
+
+This project was developed as part of a degree coursework exam for the course of Digital Electronics during the third year of my Bachelor's degree in Computer Engineering.
+
+Implementation of a carry-select circuit using VHDL.
